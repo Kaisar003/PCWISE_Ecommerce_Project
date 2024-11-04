@@ -1,0 +1,50 @@
+{
+    "filter": [
+        {
+            "filter_by_parts": {
+                "CPU": [
+                    "AMD Ryzen 9 5900X",
+                    "Intel Core i9",
+                    "Intel Core i5",
+                    "AMD Ryzen 5"
+                ],
+                "Motherboard": [
+                    "ASUS ROG Strix Z590-E Gaming",
+                    "MSI MPG B550 Gaming Edge WiFi",
+                    "Gigabyte AORUS X570 Elite"
+                ],
+                "RAM": [
+                    "32BG",
+                    "16GB",
+                    "8BG"
+                ],
+                "GPU": [
+                    "RTX 3080",
+                    "RTX 3070",
+                    "RTX 3060",
+                    "GTX 1080"
+                ],
+                "SSD": [
+                    "1TB SSD",
+                    "512GB SSD",
+                    "256GB SSD",
+                    "128GB SSD"
+                ],
+                "Power supply": [
+                    "850W",
+                    "800W",
+                    "750W",
+                    "650W",
+                    "600W",
+                    "550W"
+                ],
+                "Case": [
+                    "NZXT H510",
+                    "Corsair 4000D Airflow",
+                    "Fractal Design Meshify C",
+                    "Phanteks Eclipse P400A"
+                ]
+            }
+        }
+    ]
+}

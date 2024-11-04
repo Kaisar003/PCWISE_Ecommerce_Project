@@ -1,0 +1,84 @@
+{
+    "reviews": [
+        {
+            "revId": "1",
+            "revRate": 4.8,
+            "reviewer": "Alice Johnson",
+            "revDate": "2024-08-30",
+            "revTitle": "Fantastic Laptop",
+            "review": "The performance of this laptop is exceptional. It handles multitasking with ease, and the display is crisp and vibrant."
+        },
+        {
+            "revId": "2",
+            "revRate": 4.5,
+            "reviewer": "Bob Smith",
+            "revDate": "2024-08-29",
+            "revTitle": "Great Value for Money",
+            "review": "This laptop offers great features for its price. The battery life is impressive, and it's very portable."
+        },
+        {
+            "revId": "3",
+            "revRate": 4.0,
+            "reviewer": "Charlie Davis",
+            "revDate": "2024-08-28",
+            "revTitle": "Solid Performance",
+            "review": "A solid choice for everyday tasks. It's not the fastest out there, but it gets the job done efficiently."
+        },
+        {
+            "revId": "4",
+            "revRate": 3.8,
+            "reviewer": "Diana Lee",
+            "revDate": "2024-08-27",
+            "revTitle": "Good but Not Perfect",
+            "review": "The laptop works well for most things, but I've noticed it heats up a bit during prolonged use."
+        },
+        {
+            "revId": "5",
+            "revRate": 5.0,
+            "reviewer": "Ethan Martinez",
+            "revDate": "2024-08-26",
+            "revTitle": "Outstanding Product",
+            "review": "I love this laptop! It's incredibly fast, the build quality is top-notch, and the keyboard is comfortable."
+        },
+        {
+            "revId": "6",
+            "revRate": 4.3,
+            "reviewer": "Fiona Wilson",
+            "revDate": "2024-08-25",
+            "revTitle": "Very Satisfied",
+            "review": "I'm very happy with this purchase. The laptop is sleek, lightweight, and the battery life is excellent."
+        },
+        {
+            "revId": "7",
+            "revRate": 4.6,
+            "reviewer": "George Clark",
+            "revDate": "2024-08-24",
+            "revTitle": "Highly Recommend",
+            "review": "This laptop is a great all-rounder. It's fast, reliable, and the screen quality is fantastic."
+        },
+        {
+            "revId": "8",
+            "revRate": 4.2,
+            "reviewer": "Hannah Adams",
+            "revDate": "2024-08-23",
+            "revTitle": "Good Laptop for Work",
+            "review": "I use this laptop primarily for work, and it has never let me down. The performance is consistent."
+        },
+        {
+            "revId": "9",
+            "revRate": 3.9,
+            "reviewer": "Ian Baker",
+            "revDate": "2024-08-22",
+            "revTitle": "Decent but Some Flaws",
+            "review": "The laptop is decent overall, but the speakers could be better. The sound quality is a bit lacking."
+        },
+        {
+            "revId": "10",
+            "revRate": 4.7,
+            "reviewer": "Jasmine Harris",
+            "revDate": "2024-08-21",
+            "revTitle": "Excellent for Daily Use",
+            "review": "This laptop handles everything I throw at it. From browsing to gaming, it's been fantastic."
+        }
+    ]
+}

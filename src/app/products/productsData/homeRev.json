@@ -1,0 +1,25 @@
+{
+    "shopReview": [
+        {
+            "index": 1,
+            "imageUrl": "/feedback/customer1.jpg",
+            "full_name": "John Doe",
+            "rate": 4.5,
+            "comment": "The PCWise is the best solution for PC enthusiasts, especially for beginners!"
+        },
+        {
+            "index": 2,
+            "imageUrl": "/feedback/customer2.jpg",
+            "full_name": "Michel Adam",
+            "rate": 5,
+            "comment": "I recently purchased a laptop from PSwise, and the entire experience was flawless."
+        },
+        {
+            "index": 3,
+            "imageUrl": "/feedback/customer3.jpg",
+            "full_name": "Emely Djonson",
+            "rate": 4,
+            "comment": "PSwise has a great selection of products, and I was able to find a new PC that fits my needs perfectly."
+        }
+    ]
+}

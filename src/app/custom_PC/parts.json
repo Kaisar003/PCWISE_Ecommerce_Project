@@ -1,0 +1,1124 @@
+{
+    "PC_parts": [
+        {
+            "CPU": [
+                {
+                    "name": "Intel Core i5-12600K",
+                    "base_clock": "3.7 GHz",
+                    "cores": 10,
+                    "threads": 16,
+                    "price": 289.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X",
+                    "base_clock": "3.7 GHz",
+                    "cores": 6,
+                    "threads": 12,
+                    "price": 199.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Intel Core i7-12700K",
+                    "base_clock": "3.6 GHz",
+                    "cores": 12,
+                    "threads": 20,
+                    "price": 399.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "AMD Ryzen 7 5800X",
+                    "base_clock": "3.8 GHz",
+                    "cores": 8,
+                    "threads": 16,
+                    "price": 299.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "Intel Core i9-12900K",
+                    "base_clock": "3.2 GHz",
+                    "cores": 16,
+                    "threads": 24,
+                    "price": 589.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "AMD Ryzen 9 5900X",
+                    "base_clock": "3.7 GHz",
+                    "cores": 12,
+                    "threads": 24,
+                    "price": 499.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "Intel Core i5-12400",
+                    "base_clock": "2.5 GHz",
+                    "cores": 6,
+                    "threads": 12,
+                    "price": 179.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "AMD Ryzen 5 3600",
+                    "base_clock": "3.6 GHz",
+                    "cores": 6,
+                    "threads": 12,
+                    "price": 149.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "Intel Core i3-12100",
+                    "base_clock": "3.3 GHz",
+                    "cores": 4,
+                    "threads": 8,
+                    "price": 129.99,
+                    "quantity": 35
+                },
+                {
+                    "name": "AMD Ryzen 3 3100",
+                    "base_clock": "3.6 GHz",
+                    "cores": 4,
+                    "threads": 8,
+                    "price": 99.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "Intel Core i7-11700K",
+                    "base_clock": "3.6 GHz",
+                    "cores": 8,
+                    "threads": 16,
+                    "price": 349.99,
+                    "quantity": 17
+                },
+                {
+                    "name": "AMD Ryzen 7 5700G",
+                    "base_clock": "3.8 GHz",
+                    "cores": 8,
+                    "threads": 16,
+                    "price": 279.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "Intel Core i9-11900K",
+                    "base_clock": "3.5 GHz",
+                    "cores": 8,
+                    "threads": 16,
+                    "price": 529.99,
+                    "quantity": 11
+                },
+                {
+                    "name": "AMD Ryzen 9 5950X",
+                    "base_clock": "3.4 GHz",
+                    "cores": 16,
+                    "threads": 32,
+                    "price": 699.99,
+                    "quantity": 8
+                },
+                {
+                    "name": "Intel Core i3-10100",
+                    "base_clock": "3.6 GHz",
+                    "cores": 4,
+                    "threads": 8,
+                    "price": 109.99,
+                    "quantity": 33
+                }
+            ]
+        },
+        {
+            "GPU": [
+                {
+                    "name": "NVIDIA GeForce RTX 3080",
+                    "memory": "10 GB GDDR6X",
+                    "base_clock": "1440 MHz",
+                    "price": 699.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "AMD Radeon RX 6800 XT",
+                    "memory": "16 GB GDDR6",
+                    "base_clock": "1825 MHz",
+                    "price": 649.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "NVIDIA GeForce RTX 3070",
+                    "memory": "8 GB GDDR6",
+                    "base_clock": "1500 MHz",
+                    "price": 499.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "AMD Radeon RX 6700 XT",
+                    "memory": "12 GB GDDR6",
+                    "base_clock": "2321 MHz",
+                    "price": 479.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "NVIDIA GeForce RTX 3060 Ti",
+                    "memory": "8 GB GDDR6",
+                    "base_clock": "1410 MHz",
+                    "price": 399.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "AMD Radeon RX 6600 XT",
+                    "memory": "8 GB GDDR6",
+                    "base_clock": "1968 MHz",
+                    "price": 379.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "NVIDIA GeForce RTX 3090",
+                    "memory": "24 GB GDDR6X",
+                    "base_clock": "1395 MHz",
+                    "price": 1499.99,
+                    "quantity": 8
+                },
+                {
+                    "name": "AMD Radeon RX 6900 XT",
+                    "memory": "16 GB GDDR6",
+                    "base_clock": "1825 MHz",
+                    "price": 999.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "NVIDIA GeForce RTX 3050",
+                    "memory": "8 GB GDDR6",
+                    "base_clock": "1552 MHz",
+                    "price": 279.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "AMD Radeon RX 6500 XT",
+                    "memory": "4 GB GDDR6",
+                    "base_clock": "2310 MHz",
+                    "price": 199.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "NVIDIA GeForce GTX 1660 Super",
+                    "memory": "6 GB GDDR6",
+                    "base_clock": "1530 MHz",
+                    "price": 229.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "AMD Radeon RX 5700 XT",
+                    "memory": "8 GB GDDR6",
+                    "base_clock": "1605 MHz",
+                    "price": 399.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "NVIDIA GeForce RTX 2080 Ti",
+                    "memory": "11 GB GDDR6",
+                    "base_clock": "1350 MHz",
+                    "price": 1199.99,
+                    "quantity": 9
+                },
+                {
+                    "name": "AMD Radeon RX 580",
+                    "memory": "8 GB GDDR5",
+                    "base_clock": "1257 MHz",
+                    "price": 189.99,
+                    "quantity": 34
+                },
+                {
+                    "name": "NVIDIA GeForce GTX 1650",
+                    "memory": "4 GB GDDR5",
+                    "base_clock": "1485 MHz",
+                    "price": 169.99,
+                    "quantity": 32
+                }
+            ]
+        },
+        {
+            "Motherboard": [
+                {
+                    "name": "ASUS ROG Strix Z690-E",
+                    "socket": "LGA 1700",
+                    "form_factor": "ATX",
+                    "chipset": "Z690",
+                    "price": 369.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "MSI MAG B550 TOMAHAWK",
+                    "socket": "AM4",
+                    "form_factor": "ATX",
+                    "chipset": "B550",
+                    "price": 179.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "GIGABYTE Z690 AORUS Elite",
+                    "socket": "LGA 1700",
+                    "form_factor": "ATX",
+                    "chipset": "Z690",
+                    "price": 229.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "ASRock B550M Steel Legend",
+                    "socket": "AM4",
+                    "form_factor": "Micro ATX",
+                    "chipset": "B550",
+                    "price": 139.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "ASUS TUF Gaming X570-PLUS",
+                    "socket": "AM4",
+                    "form_factor": "ATX",
+                    "chipset": "X570",
+                    "price": 189.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "MSI MPG Z590 Gaming Edge",
+                    "socket": "LGA 1200",
+                    "form_factor": "ATX",
+                    "chipset": "Z590",
+                    "price": 199.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "GIGABYTE B450M DS3H",
+                    "socket": "AM4",
+                    "form_factor": "Micro ATX",
+                    "chipset": "B450",
+                    "price": 74.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "ASRock Z490 Taichi",
+                    "socket": "LGA 1200",
+                    "form_factor": "ATX",
+                    "chipset": "Z490",
+                    "price": 289.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "ASUS Prime B460M-A",
+                    "socket": "LGA 1200",
+                    "form_factor": "Micro ATX",
+                    "chipset": "B460",
+                    "price": 94.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "MSI B450 TOMAHAWK MAX",
+                    "socket": "AM4",
+                    "form_factor": "ATX",
+                    "chipset": "B450",
+                    "price": 114.99,
+                    "quantity": 24
+                },
+                {
+                    "name": "GIGABYTE Z590 AORUS Master",
+                    "socket": "LGA 1200",
+                    "form_factor": "ATX",
+                    "chipset": "Z590",
+                    "price": 389.99,
+                    "quantity": 11
+                },
+                {
+                    "name": "ASRock B450M Pro4",
+                    "socket": "AM4",
+                    "form_factor": "Micro ATX",
+                    "chipset": "B450",
+                    "price": 89.99,
+                    "quantity": 27
+                },
+                {
+                    "name": "ASUS ROG Crosshair VIII Hero",
+                    "socket": "AM4",
+                    "form_factor": "ATX",
+                    "chipset": "X570",
+                    "price": 379.99,
+                    "quantity": 8
+                },
+                {
+                    "name": "MSI Z490-A PRO",
+                    "socket": "LGA 1200",
+                    "form_factor": "ATX",
+                    "chipset": "Z490",
+                    "price": 159.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "GIGABYTE X570 AORUS Elite",
+                    "socket": "AM4",
+                    "form_factor": "ATX",
+                    "chipset": "X570",
+                    "price": 199.99,
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "SSD": [
+                {
+                    "name": "Samsung 970 EVO Plus",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 129.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "WD Blue SN550",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 89.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "Kingston A2000",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 99.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "Crucial MX500",
+                    "capacity": "1 TB",
+                    "interface": "SATA III",
+                    "price": 79.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "Seagate FireCuda 520",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 149.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "Samsung 980 Pro",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 179.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "WD Black SN850",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 159.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "ADATA XPG SX8200 Pro",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 119.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "Intel 660p",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 99.99,
+                    "quantity": 24
+                },
+                {
+                    "name": "SK hynix Gold P31",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 109.99,
+                    "quantity": 21
+                },
+                {
+                    "name": "Sabrent Rocket 4.0",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 149.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Toshiba OCZ RD400",
+                    "capacity": "512 GB",
+                    "interface": "NVMe M.2",
+                    "price": 119.99,
+                    "quantity": 26
+                },
+                {
+                    "name": "Samsung 860 EVO",
+                    "capacity": "1 TB",
+                    "interface": "SATA III",
+                    "price": 109.99,
+                    "quantity": 23
+                },
+                {
+                    "name": "Crucial P5",
+                    "capacity": "1 TB",
+                    "interface": "NVMe M.2",
+                    "price": 129.99,
+                    "quantity": 17
+                },
+                {
+                    "name": "SanDisk Ultra 3D",
+                    "capacity": "1 TB",
+                    "interface": "SATA III",
+                    "price": 99.99,
+                    "quantity": 27
+                }
+            ]
+        },
+        {
+            "Power_Supply": [
+                {
+                    "name": "Corsair RM750x",
+                    "wattage": "750W",
+                    "certification": "80+ Gold",
+                    "price": 129.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "EVGA SuperNOVA 850 G5",
+                    "wattage": "850W",
+                    "certification": "80+ Gold",
+                    "price": 149.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Seasonic Focus GX-750",
+                    "wattage": "750W",
+                    "certification": "80+ Gold",
+                    "price": 119.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "Cooler Master MWE Gold 650",
+                    "wattage": "650W",
+                    "certification": "80+ Gold",
+                    "price": 79.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "Corsair CX550M",
+                    "wattage": "550W",
+                    "certification": "80+ Bronze",
+                    "price": 59.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "EVGA 600 W1",
+                    "wattage": "600W",
+                    "certification": "80+ White",
+                    "price": 49.99,
+                    "quantity": 32
+                },
+                {
+                    "name": "Thermaltake Smart 600W",
+                    "wattage": "600W",
+                    "certification": "80+ White",
+                    "price": 49.99,
+                    "quantity": 29
+                },
+                {
+                    "name": "Seasonic Prime TX-1000",
+                    "wattage": "1000W",
+                    "certification": "80+ Titanium",
+                    "price": 249.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "Be Quiet! Straight Power 11",
+                    "wattage": "750W",
+                    "certification": "80+ Gold",
+                    "price": 129.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "NZXT C850",
+                    "wattage": "850W",
+                    "certification": "80+ Gold",
+                    "price": 139.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "Corsair HX1000i",
+                    "wattage": "1000W",
+                    "certification": "80+ Platinum",
+                    "price": 229.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "EVGA SuperNOVA 750 P2",
+                    "wattage": "750W",
+                    "certification": "80+ Platinum",
+                    "price": 159.99,
+                    "quantity": 17
+                },
+                {
+                    "name": "Thermaltake Toughpower GF1 850W",
+                    "wattage": "850W",
+                    "certification": "80+ Gold",
+                    "price": 139.99,
+                    "quantity": 13
+                },
+                {
+                    "name": "Cooler Master V850",
+                    "wattage": "850W",
+                    "certification": "80+ Gold",
+                    "price": 129.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Seasonic S12III 500",
+                    "wattage": "500W",
+                    "certification": "80+ Bronze",
+                    "price": 49.99,
+                    "quantity": 31
+                }
+            ]
+        },
+        {
+            "Case": [
+                {
+                    "name": "NZXT H510",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "White",
+                    "price": 69.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "Corsair 4000D Airflow",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 89.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "Lian Li PC-O11 Dynamic",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "White",
+                    "price": 129.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "Cooler Master MasterBox NR600",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 79.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "Fractal Design Meshify C",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 99.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Phanteks Eclipse P400A",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 79.99,
+                    "quantity": 24
+                },
+                {
+                    "name": "Be Quiet! Pure Base 500DX",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 99.99,
+                    "quantity": 17
+                },
+                {
+                    "name": "Corsair iCUE 220T RGB",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "White",
+                    "price": 99.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "NZXT H710",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 169.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "Lian Li Lancool II Mesh",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "White",
+                    "price": 89.99,
+                    "quantity": 19
+                },
+                {
+                    "name": "Cooler Master H500",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 149.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "Phanteks Enthoo Pro",
+                    "form_factor": "ATX Full Tower",
+                    "color": "Black",
+                    "price": 99.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "Fractal Design Define R6",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 149.99,
+                    "quantity": 11
+                },
+                {
+                    "name": "Thermaltake Core P3",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 129.99,
+                    "quantity": 13
+                },
+                {
+                    "name": "Corsair Crystal 570X",
+                    "form_factor": "ATX Mid Tower",
+                    "color": "Black",
+                    "price": 169.99,
+                    "quantity": 9
+                }
+            ]
+        },
+        {
+            "CPU_Cooling": [
+                {
+                    "name": "Noctua NH-D15",
+                    "type": "Air",
+                    "price": 89.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "Corsair H100i RGB Platinum",
+                    "type": "Liquid",
+                    "price": 139.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "Cooler Master Hyper 212 EVO",
+                    "type": "Air",
+                    "price": 34.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "NZXT Kraken X63",
+                    "type": "Liquid",
+                    "price": 149.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "be quiet! Dark Rock Pro 4",
+                    "type": "Air",
+                    "price": 89.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "Arctic Freezer 34 eSports DUO",
+                    "type": "Air",
+                    "price": 49.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "DeepCool Gammaxx 400",
+                    "type": "Air",
+                    "price": 24.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "EVGA CLC 240",
+                    "type": "Liquid",
+                    "price": 99.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "Thermaltake Floe Riing 360",
+                    "type": "Liquid",
+                    "price": 169.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "Corsair A500",
+                    "type": "Air",
+                    "price": 99.99,
+                    "quantity": 19
+                },
+                {
+                    "name": "NZXT Kraken Z73",
+                    "type": "Liquid",
+                    "price": 229.99,
+                    "quantity": 8
+                },
+                {
+                    "name": "Cooler Master MasterLiquid ML240L",
+                    "type": "Liquid",
+                    "price": 79.99,
+                    "quantity": 23
+                },
+                {
+                    "name": "be quiet! Pure Rock 2",
+                    "type": "Air",
+                    "price": 39.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "Scythe Fuma 2",
+                    "type": "Air",
+                    "price": 59.99,
+                    "quantity": 24
+                },
+                {
+                    "name": "Arctic Liquid Freezer II 280",
+                    "type": "Liquid",
+                    "price": 119.99,
+                    "quantity": 17
+                }
+            ]
+        },
+        {
+            "Case_Fans": [
+                {
+                    "name": "Noctua NF-A12x25",
+                    "size": "120mm",
+                    "price": 29.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "Corsair LL120 RGB",
+                    "size": "120mm",
+                    "price": 39.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "NZXT AER RGB 2",
+                    "size": "120mm",
+                    "price": 29.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "be quiet! Silent Wings 3",
+                    "size": "120mm",
+                    "price": 24.99,
+                    "quantity": 27
+                },
+                {
+                    "name": "Cooler Master SickleFlow 120",
+                    "size": "120mm",
+                    "price": 12.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "Arctic P12 PWM",
+                    "size": "120mm",
+                    "price": 8.99,
+                    "quantity": 35
+                },
+                {
+                    "name": "Thermaltake Riing Quad 12",
+                    "size": "120mm",
+                    "price": 49.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Corsair ML120 Pro",
+                    "size": "120mm",
+                    "price": 24.99,
+                    "quantity": 24
+                },
+                {
+                    "name": "Phanteks PH-F140MP",
+                    "size": "140mm",
+                    "price": 14.99,
+                    "quantity": 28
+                },
+                {
+                    "name": "Noctua NF-P12 redux-1700 PWM",
+                    "size": "120mm",
+                    "price": 12.99,
+                    "quantity": 30
+                },
+                {
+                    "name": "NZXT AER P140",
+                    "size": "140mm",
+                    "price": 19.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "Cooler Master MasterFan MF120R",
+                    "size": "120mm",
+                    "price": 17.99,
+                    "quantity": 29
+                },
+                {
+                    "name": "be quiet! Pure Wings 2",
+                    "size": "120mm",
+                    "price": 8.99,
+                    "quantity": 32
+                },
+                {
+                    "name": "Thermaltake Pure 12 ARGB",
+                    "size": "120mm",
+                    "price": 19.99,
+                    "quantity": 21
+                },
+                {
+                    "name": "Corsair SP120 RGB Pro",
+                    "size": "120mm",
+                    "price": 14.99,
+                    "quantity": 26
+                }
+            ]
+        },
+        {
+            "RAM": [
+                {
+                    "name": "Corsair Vengeance LPX",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 79.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "G.Skill Ripjaws V",
+                    "capacity": "16 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 84.99,
+                    "quantity": 17
+                },
+                {
+                    "name": "Kingston HyperX Fury",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 74.99,
+                    "quantity": 22
+                },
+                {
+                    "name": "Corsair Dominator Platinum RGB",
+                    "capacity": "32 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 179.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "G.Skill Trident Z RGB",
+                    "capacity": "16 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 89.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "Crucial Ballistix",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 69.99,
+                    "quantity": 21
+                },
+                {
+                    "name": "Team T-Force Delta RGB",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 79.99,
+                    "quantity": 20
+                },
+                {
+                    "name": "Corsair Vengeance RGB Pro",
+                    "capacity": "32 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 189.99,
+                    "quantity": 11
+                },
+                {
+                    "name": "G.Skill Trident Z Neo",
+                    "capacity": "32 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 199.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "ADATA XPG Spectrix D60G",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 74.99,
+                    "quantity": 19
+                },
+                {
+                    "name": "Patriot Viper Steel",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 64.99,
+                    "quantity": 25
+                },
+                {
+                    "name": "Kingston Fury Beast",
+                    "capacity": "16 GB",
+                    "speed": "3200 MHz",
+                    "type": "DDR4",
+                    "price": 69.99,
+                    "quantity": 23
+                },
+                {
+                    "name": "Team T-Force Xtreem ARGB",
+                    "capacity": "16 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 89.99,
+                    "quantity": 16
+                },
+                {
+                    "name": "Crucial Ballistix MAX",
+                    "capacity": "16 GB",
+                    "speed": "4000 MHz",
+                    "type": "DDR4",
+                    "price": 119.99,
+                    "quantity": 14
+                },
+                {
+                    "name": "Corsair Vengeance RGB RT",
+                    "capacity": "32 GB",
+                    "speed": "3600 MHz",
+                    "type": "DDR4",
+                    "price": 179.99,
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "Monitor": [
+                {
+                    "name": "ASUS TUF Gaming VG27AQ",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "165 Hz",
+                    "price": 429.99,
+                    "quantity": 10
+                },
+                {
+                    "name": "LG 27GL850",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "144 Hz",
+                    "price": 449.99,
+                    "quantity": 12
+                },
+                {
+                    "name": "Dell S2721DGF",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "165 Hz",
+                    "price": 499.99,
+                    "quantity": 8
+                },
+                {
+                    "name": "Acer Predator XB273K",
+                    "size": "27 inches",
+                    "resolution": "4K",
+                    "refresh_rate": "144 Hz",
+                    "price": 899.99,
+                    "quantity": 5
+                },
+                {
+                    "name": "Samsung Odyssey G7",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "240 Hz",
+                    "price": 699.99,
+                    "quantity": 6
+                },
+                {
+                    "name": "Gigabyte M27Q",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "170 Hz",
+                    "price": 329.99,
+                    "quantity": 15
+                },
+                {
+                    "name": "BenQ EX2780Q",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "144 Hz",
+                    "price": 479.99,
+                    "quantity": 9
+                },
+                {
+                    "name": "MSI Optix MAG272CQR",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "165 Hz",
+                    "price": 399.99,
+                    "quantity": 11
+                },
+                {
+                    "name": "ViewSonic Elite XG270QG",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "165 Hz",
+                    "price": 529.99,
+                    "quantity": 7
+                },
+                {
+                    "name": "AOC CQ32G1",
+                    "size": "32 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "144 Hz",
+                    "price": 279.99,
+                    "quantity": 18
+                },
+                {
+                    "name": "ASUS ROG Swift PG27UQ",
+                    "size": "27 inches",
+                    "resolution": "4K",
+                    "refresh_rate": "144 Hz",
+                    "price": 1799.99,
+                    "quantity": 3
+                },
+                {
+                    "name": "LG UltraGear 34GN850-B",
+                    "size": "34 inches",
+                    "resolution": "3440 x 1440",
+                    "refresh_rate": "160 Hz",
+                    "price": 999.99,
+                    "quantity": 4
+                },
+                {
+                    "name": "Acer Nitro XV272U",
+                    "size": "27 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "144 Hz",
+                    "price": 349.99,
+                    "quantity": 13
+                },
+                {
+                    "name": "Alienware AW3420DW",
+                    "size": "34 inches",
+                    "resolution": "3440 x 1440",
+                    "refresh_rate": "120 Hz",
+                    "price": 1199.99,
+                    "quantity": 4
+                },
+                {
+                    "name": "Samsung CHG70",
+                    "size": "32 inches",
+                    "resolution": "1440p",
+                    "refresh_rate": "144 Hz",
+                    "price": 499.99,
+                    "quantity": 7
+                }
+            ]
+        }
+    ]
+}
